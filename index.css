@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+h1{
+	text-align: center;
+	background-color:lightgray;
+}
+.boxtime1{
+	border:1px solid black;
+	height: auto;
+	width:auto;
+}
+.boxtime2{
+	border:1px solid #000000;
+	width:280px;
+	height: 50px;
+	background-color: lightgray;
+}
+h2{
+	text-align: center;
+	background-color: lightgray;
+}
+a{
+	color:seagreen;
+	background-color: lightgray;
+}
+*{
+	background-color:lightgray;
+}
+.right{
+	width:75%;
+	display:block;
+	align:left;
+}
+.img{
+	width:auto;
+	height:auto;
+}
